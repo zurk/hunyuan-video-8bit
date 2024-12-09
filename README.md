@@ -1,5 +1,7 @@
 # HunyuanVideo API, 8bit version
 
+Checkout [Replicate API](https://replicate.com/zurk/hunyuan-video-8bit).
+
 HunyuanVideo is a state-of-the-art text-to-video generation model that creates high-quality videos from text descriptions. 
 This model outperforms many closed-source alternatives in text alignment, motion quality, and visual quality.
 
