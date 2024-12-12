@@ -3,3 +3,5 @@ __pycache__
 *.pyc
 .DS_Store
 .idea
+ComfyUI/models
+ComfyUI/output
